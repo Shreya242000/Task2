@@ -20,7 +20,6 @@
 </head>
 <body>
 
-
   <button id="supportButton" onclick="showAlert()">Get Support</button>
 
   <script>
